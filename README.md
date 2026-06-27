@@ -5,7 +5,7 @@
 HastaAkshar is an interactive iOS/iPadOS application designed to gamify the experience of learning and practicing Bharatnatyam mudras. Built with love and passion, it was originally submitted as a part of the Swift Student Challenge 2026. 
 
 ## 📖 The Story Behind HastaAkshar
-*“I did Bharatnatyam for over 6 years of my life. I really struggled with remembering the sequence of mudras and their significance in the Natyashastra. So I wanted to build a tool which would gamify the experience and would be helpful in learning along with practicing the form of mudras—both double and single hand gestures.”* — Creator
+I did Bharatnatyam for over 6 years of my life. I really struggled with remembering the sequence of mudras and their significance in the Natyashastra. So I wanted to build a tool which would gamify the experience and would be helpful in learning along with practicing the form of mudras—both double and single hand gestures.
 
 HastaAkshar transforms the traditional, often challenging process of memorizing mudras into an engaging, interactive journey. It bridges ancient art with modern technology, helping dancers and enthusiasts alike perfect their gestures.
 
@@ -19,11 +19,11 @@ HastaAkshar transforms the traditional, often challenging process of memorizing 
 
 | Home Screen | Mudra Sadhana |
 | --- | --- |
-| <img src="Screenshots/home.png" width="250"> | <img src="Screenshots/library.png" width="250"> |
+| <img src="./Screenshots/home.png" width="250"> | <img src="./Screenshots/library.png" width="250"> |
 
 | Mudra Details | AR Practice |
 | --- | --- |
-| <img src="Screenshots/details.png" width="250"> | <img src="Screenshots/practice.png" width="250"> |
+| <img src="./Screenshots/details.png" width="250"> | <img src="./Screenshots/practice.png" width="250"> |
 
 ## 🚀 How to Use
 1. **Requirements:**
